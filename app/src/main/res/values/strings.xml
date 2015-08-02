@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">ImageEditor</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="edit_image">编辑图片</string>
     <string name="action_settings">Settings</string>
 </resources>
