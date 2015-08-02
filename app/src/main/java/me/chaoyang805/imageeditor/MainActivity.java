@@ -24,4 +24,9 @@ public class MainActivity extends AppCompatActivity {
         startActivity(i);
     }
 
+    public void imagePixels(View view) {
+        Intent i = new Intent(this, ImagePixelsActivity.class);
+        startActivity(i);
+    }
+
 }

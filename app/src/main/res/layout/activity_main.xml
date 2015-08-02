@@ -2,6 +2,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:gravity="center"
     android:orientation="vertical">
 
     <TextView
@@ -23,6 +24,8 @@
     <Button
         android:id="@+id/btn_lum"
         style="@style/ButtonStyle"
-        android:text="亮度" />
+        android:text="ImagePixels"
+        android:onClick="imagePixels"
+        />
 
 </LinearLayout>
